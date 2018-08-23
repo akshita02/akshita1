@@ -1,0 +1,7 @@
+git init -used to initialize the repository.
+git add - add the contents
+git status - It shows the status of the repository created.
+git commit -m "abc"-It is used to display message of the repositor ceated
+git.hist -It shows the history.
+git push-make changes and commit.
+git pull-If they make any changes we can't get them.
